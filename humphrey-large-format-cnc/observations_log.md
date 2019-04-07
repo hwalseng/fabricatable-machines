@@ -17,7 +17,7 @@ Y echain needs more floor to not overbend
 Could standardize so no special ends
 Around hole, better symmetry on holes and not hit alu
  move meganuts out so that they dont interfear with holddown (problematic with size of sheet?)
-## Ganty
+## Gantry
 
 ### Observations
 Alu: skip needless tabs and or increase tols where not critical
